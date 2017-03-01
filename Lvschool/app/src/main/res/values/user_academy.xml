@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user_academy">
+        <item>机电与信息工程学院</item>
+        <item>化学与环境工程学院</item>
+        <item>文法学院</item>
+        <item>理学院</item>
+    </string-array>
+</resources>
